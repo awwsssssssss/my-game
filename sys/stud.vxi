@@ -1,0 +1,28 @@
+// @vxi = "VR XEON IEN";
+// @name = "userroot";
+// @file = stud.vxi;
+// @space = "no";
+//@date = "2022";
+//#eula = true;
+if route(x=y){
+en = gnu.wiriteuse("GROB>"). type('wirite'). color.red(true);
+route.execute(en);
+}
+js.resc{
+react.ds(stud.vxi);
+if $route==non(){nul;}
+return js;
+}
+
+
+
+
+
+
+
+ping = ::0 -y "ping - p port"
+ww = %setframe s d s "frame.rotate(*.*,*.*).(action=window);"
+abs = %input s "include<x+'abs -%1'>;"
+bls = %nsa s "sni.wirite.read(code.'bls(code.bls)');"
+dss = %out s "quitly.read.res(code.close);"
+sts = %nys s n a "window.visit(site,sts);"
